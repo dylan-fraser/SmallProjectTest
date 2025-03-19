@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5b9e1e6c7dc4e4fa3a41994b11b8ff, type: 3}
+  m_Name: GhostStateData
+  m_EditorClassIdentifier: 
+  _speed: 10
+  _rotationSmoothTime: 0.05
+  _gravityMultiplier: 2
+  _stateMaterial: {fileID: 2100000, guid: 84fa7a0ccaae1f344ae95976abf0a00b, type: 2}

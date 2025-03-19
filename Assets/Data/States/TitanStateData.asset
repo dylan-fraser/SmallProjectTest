@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abd1649cfbcdd3445a90a08814d3029a, type: 3}
+  m_Name: TitanStateData
+  m_EditorClassIdentifier: 
+  _attackToSpawn: {fileID: 1581047137764060299, guid: 8a77822b0577cfe46bf1ca135b8e2e43, type: 3}
+  _attackDamage: 3
+  _attackCooldown: 5
+  _speed: 5
+  _rotationSmoothTime: 0.2
+  _gravityMultiplier: 5
+  _scaleChange: 0.5
+  _health: 5
+  _stateMaterial: {fileID: 2100000, guid: a59985f5326a39b4fbe3deec4db18fe8, type: 2}
